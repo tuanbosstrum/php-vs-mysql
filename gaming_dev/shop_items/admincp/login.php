@@ -21,8 +21,8 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<p>tk đăng nhập : quan</p>
-	<p>password : 123456789</p>
+	<p>tk đăng nhập : admin</p>
+	<p>password : 0946535271asd</p>
 	<title>Đăng nhập Admincp</title>
 	<style type="text/css">
 		body{

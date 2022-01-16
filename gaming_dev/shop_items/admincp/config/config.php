@@ -2,7 +2,7 @@
 
 
 
-	$mysqli = new mysqli("","codewith_blogs1","quan20112002","codewith_quan1");
+	$mysqli = new mysqli("localhost","root","","shop");
 
 
 
