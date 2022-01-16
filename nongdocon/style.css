@@ -1,0 +1,32 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.container-fluid .header{
+	background-color: red; 
+	height: 300px;
+	
+}
+#Menu{
+	background-color: #00FFFF; 
+	height: 40px;
+}
+#Menu .justify-content-center .nav-item{
+	margin-right: 45px;
+	padding: 0px;
+}
+.ruoubacha{
+	margin-left: 70px;
+	float: left;
+	margin-top: 40px;
+}
+table{
+	width:auto; 
+	height: 106px; 
+	border: 1px solid #F30;
+	border-radius: 5px;
+}

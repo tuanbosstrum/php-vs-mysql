@@ -1,0 +1,37 @@
+#wrapper{
+    margin: 0 auto;
+    width: 960px;
+}
+#wrapper #header #menu{
+    width: 960px;
+    background: #800040;
+    height: 30px;
+}
+#wrapper #header #menu ul{
+    margin-left: -35px;
+}
+#wrapper #header #menu ul li{
+    list-style: none;
+    float: left;
+    padding: 5px 10px;
+    border-right: 1px solid #fff;
+}
+#wrapper #header #menu ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bolder;
+}
+#wrapper #header #menu ul li a:hover{
+    color: #FFFF80;
+}
+
+#wrapper #footer{
+    background: #800040;
+    width: 960px;
+    height: 100px;
+}
+#wrapper #footer h1{
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+}
